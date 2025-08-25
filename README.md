@@ -45,9 +45,11 @@ Features include:
 
 ## 🖼️ Dashboard Preview
 
-![Global Superstore Dashboard](assets/global_superstore_dashboard.png)
+![Global Superstore Dashboard](gb1.png)
+![Global Superstore Dashboard](gb2.png)
+![Global Superstore Dashboard](gb3.png)
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 Tableau → Dashboard creation & analysis
 
